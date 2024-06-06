@@ -1,6 +1,6 @@
 package basicJava;
 
-import java.sql.SQLOutput;
+//import java.sql.SQLOutput;
 
 public class Product {
     public static void main(String[] args) {
