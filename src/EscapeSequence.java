@@ -28,6 +28,14 @@ public class EscapeSequence {
         System.out.println("3333 \t 4333 \t 456789 \t 98765");
         System.out.println("3333 \t 4333 \t 456789 \t 98765");
         System.out.println("3333 \t 4333 \t 456789 \t 98765");
+        System.out.println("3333 \t 4333\n 456789 \t 98765");
+        System.out.println("3333 \t 4333 \t 456789 \t 98765");
+        System.out.println("3333 \n 4333 \t 456789\n 98765");
+
+        System.out.println(" \"Java Programming\" ");
+        System.out.println(" My name is Armaan ");
+
+
 
 
     }
