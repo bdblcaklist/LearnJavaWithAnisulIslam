@@ -13,7 +13,7 @@ public class Product {
 
         System.out.print("ID: " +id + ",\n" + "Title: " + title + ",\n" + "Price: " + price
                 + ",\n" + "Description: " + description + ",\n" + "Category: " + category );
-    */
+
 
         int id = 101;
         String title = "iphone15";
@@ -23,6 +23,20 @@ public class Product {
 
         System.out.print("ID: " + id + ",\n" + "Title: " + title + ",\n" + "Description: " + description + ",\n"
                 + "Category :" + category );
+
+
+ */
+
+
+        int id = 101;
+        String title =  "Iphone 15,";
+        String price = "1895 Euros,";
+        String description = "Perfect product with best image quality,";
+        String category = "Phone.";
+
+        System.out.println("ID: " + id + "\n" + "Title: " + title +"Price: " + price + "\n" +  "\n" + "Description: " + description + "\n"
+        + "Category: " + category);
+
 
     }
 }
